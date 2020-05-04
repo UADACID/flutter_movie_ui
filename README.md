@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://raw.githubusercontent.com/UADACID/flutter_movie_ui/master/telegram-cloud-document-5-615869.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
